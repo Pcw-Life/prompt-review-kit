@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# prompt-review version: 1.0.0
+# prompt-review version: 1.0.0.0
 import argparse, re, sys, pathlib
 
 BAD_MARKERS = [r"\bTODO\b", r"\bTBD\b", r"\[INSERT.*?\]", r"lorem ipsum"]
