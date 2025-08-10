@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# prompt-review version: 1.0.0
+# prompt-review version: 1.0.0.0
 # Run prompt lint + golden tests. Repo-agnostic: expects Prompts/ and tests/prompts/ to exist.
 set -euo pipefail
 
