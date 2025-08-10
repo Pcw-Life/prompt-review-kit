@@ -1,0 +1,4 @@
+{
+  "prompt_file": "Prompt_1.md",
+  "must_include": ["Goal", "Steps"]
+}
